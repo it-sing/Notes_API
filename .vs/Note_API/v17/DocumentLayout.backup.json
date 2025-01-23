@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Notes\\Note_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|d:\\notes\\note_api\\note_api\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|solutionrelative:note_api\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|d:\\notes\\note_api\\note_api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|solutionrelative:note_api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|d:\\notes\\note_api\\note_api\\data\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|solutionrelative:note_api\\data\\notesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|d:\\notes\\note_api\\note_api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|solutionrelative:note_api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|d:\\notes\\note_api\\note_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8BCA3B-EAE8-438E-B7FA-582702643DAE}|Note_API\\Note_API.csproj|solutionrelative:note_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Notes\\Note_API\\Note_API\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Note_API\\Models\\Note.cs",
+              "ToolTip": "D:\\Notes\\Note_API\\Note_API\\Models\\Note.cs",
+              "RelativeToolTip": "Note_API\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:07:00.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotesRepository.cs",
+              "DocumentMoniker": "D:\\Notes\\Note_API\\Note_API\\Data\\NotesRepository.cs",
+              "RelativeDocumentMoniker": "Note_API\\Data\\NotesRepository.cs",
+              "ToolTip": "D:\\Notes\\Note_API\\Note_API\\Data\\NotesRepository.cs",
+              "RelativeToolTip": "Note_API\\Data\\NotesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:49:47.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\Notes\\Note_API\\Note_API\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Note_API\\Controllers\\NotesController.cs",
+              "ToolTip": "D:\\Notes\\Note_API\\Note_API\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Note_API\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwE8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:44:43.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "D:\\Notes\\Note_API\\Note_API\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "Note_API\\Services\\NoteService.cs",
+              "ToolTip": "D:\\Notes\\Note_API\\Note_API\\Services\\NoteService.cs",
+              "RelativeToolTip": "Note_API\\Services\\NoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:44:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Notes\\Note_API\\Note_API\\Program.cs",
+              "RelativeDocumentMoniker": "Note_API\\Program.cs",
+              "ToolTip": "D:\\Notes\\Note_API\\Note_API\\Program.cs",
+              "RelativeToolTip": "Note_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T04:42:28.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
